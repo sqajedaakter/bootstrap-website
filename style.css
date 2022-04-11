@@ -1,0 +1,9 @@
+.logo{
+    height: 50px;
+    width: 80px;
+    border-radius: 100px;
+}
+.footer{
+    height: 200px;
+    background-color: aqua;
+}
